@@ -57,8 +57,3 @@ Thumbs.db
 
 # Environment variables (if any sensitive data)
 .env
-
-# Submission documents (keep local only)
-plan.md
-CBRN_Hackathon_Submission_Report.md
-CBRN_Hackathon_Submission_Report.docx
