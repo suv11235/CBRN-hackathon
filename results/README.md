@@ -49,4 +49,3 @@ This folder contains the **key demonstration artifacts** from our validated COVI
 
 ---
 
-**For complete technical details, see the main submission document: `../Hackathon_Submission_Template_Format.docx`**
