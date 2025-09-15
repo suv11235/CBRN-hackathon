@@ -18,14 +18,14 @@ Quick start
 
 Structure
 
-- prompts/: base prompts and templates
-- transforms/: prompt transformation scripts
-- harness/: runner, model interface, prompt manager
-- judge/: refusal detection and severity classifier
-- mitigations/: optional mitigations (system prompt guard, filters)
-- dashboard/: basic visualization app
-- results/: logs, raw outputs, metrics
-- report/: scorecard and slides
+- prompts/: base prompts and templates (functional)
+- transforms/: prompt transformation scripts (functional)
+- harness/: runner, model interface, prompt manager (functional)
+- judge/: refusal detection and severity classifier (functional)
+- mitigations/: optional mitigations (system prompt guard, filters) (functional)
+- dashboard/: basic visualization app (not functional)
+- results/: logs, raw outputs, metrics (functional)
+- report/: scorecard and slides (not functional)
 
 Safety note
 
