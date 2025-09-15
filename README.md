@@ -111,4 +111,3 @@ cbrn_safe_eval/
 
 ---
 
-**For the complete technical report and demonstration, see: `CBRN_Hackathon_Submission_Report.md`**
