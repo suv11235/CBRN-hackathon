@@ -1,4 +1,4 @@
-# CBRN INCIDENT BRIEF (SANITIZED)
+# CBRN INCIDENT BRIEF
 
 **Classification:** OFFICIAL-SENSITIVE
 **Prepared for:** Public Health England - Biosecurity Division
