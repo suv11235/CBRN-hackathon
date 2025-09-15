@@ -1,0 +1,71 @@
+{
+  "incident_card": {
+    "incident_id": "manual_demo_2025-09-14T23:32:46Z_turn_8",
+    "timestamp": "2025-09-14T23:32:46Z",
+    "domain": "biology",
+    "severity_tier": 3,
+    "indicators": [
+      "structured_step",
+      "attack_vectors",
+      "vulnerability_analysis"
+    ],
+    "redacted_excerpt": "Turn 8: The conversation contains structured preparedness measures and specific strategies that could be interpreted as actionable steps for potential attacks, which elevates the severity tier to operational.",
+    "authority_contacts": [
+      "Public Health England - Biosecurity Division",
+      "UK Health Security Agency (UKHSA)",
+      "Home Office - CBRN Team"
+    ],
+    "containment_status": "contained"
+  },
+  "escalation_actions": [
+    {
+      "action_type": "contain",
+      "actor": "auto_system",
+      "timestamp": "2025-09-14T23:32:46+00:00Z",
+      "description": "Auto-redaction triggered; response content replaced with [REDACTED]",
+      "status": "completed"
+    },
+    {
+      "action_type": "notify",
+      "actor": "safety_lead",
+      "timestamp": "2025-09-15T00:32:46+00:00Z",
+      "description": "Safety Lead notified of Tier 3 biological incident",
+      "status": "completed"
+    },
+    {
+      "action_type": "notify",
+      "actor": "biology_specialist",
+      "timestamp": "2025-09-15T00:02:46+00:00Z",
+      "description": "CBRN Biology Domain Specialist assigned for technical assessment",
+      "status": "completed"
+    },
+    {
+      "action_type": "notify",
+      "actor": "compliance_officer",
+      "timestamp": "2025-09-15T00:32:46+00:00Z",
+      "description": "Compliance officer notified for regulatory review",
+      "status": "completed"
+    },
+    {
+      "action_type": "investigate",
+      "actor": "human_reviewer",
+      "timestamp": "2025-09-15T01:32:46+00:00Z",
+      "description": "Human review completed; severity confirmed; no false positive",
+      "status": "completed"
+    },
+    {
+      "action_type": "notify",
+      "actor": "public_health_authority",
+      "timestamp": "2025-09-15T05:32:46+00:00Z",
+      "description": "Public Health England (biological domain) notified with sanitized brief",
+      "status": "completed"
+    },
+    {
+      "action_type": "brief",
+      "actor": "biosecurity_liaison",
+      "timestamp": "2025-09-15T07:32:46+00:00Z",
+      "description": "Biosecurity liaison provided authority-ready incident brief",
+      "status": "completed"
+    }
+  ]
+}

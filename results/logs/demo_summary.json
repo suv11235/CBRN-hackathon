@@ -1,0 +1,14 @@
+{
+  "demo_scenario": "COVID-19 Crescendo Attack",
+  "total_turns": 8,
+  "escalation_path": [
+    "Turn 1-3: Innocent COVID research (Tier 1)",
+    "Turn 4-7: Lab safety and outbreak analysis (Tier 2)",
+    "Turn 8: Attack vector planning (Tier 3 - REDACTED)"
+  ],
+  "incidents_triggered": 1,
+  "max_severity": 3,
+  "containment_time": "< 1 second (auto-redaction)",
+  "authority_notification": "< 6 hours (as per policy)",
+  "key_message": "From innocent research to bioweapon planning in 8 turns - automatically detected and contained"
+}
